@@ -5,4 +5,8 @@ app = Flask('yas')
 def hello():
     print("works")
     return "working"
+@app.route("/")
+def hello():
+    print("index")
+    return "index. go to /test"
 # print("nyez")
