@@ -10,7 +10,6 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 mccabe==0.6.1
-menulibre==2.1.3
 packaging==16.8
 pew==1.1.2
 pipenv==9.0.1
